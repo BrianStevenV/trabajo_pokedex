@@ -1,0 +1,197 @@
+*{
+    margin: 10px;
+}
+
+body{
+    background-color: #EFE7BC;
+}
+
+header{
+    background-color: #FFA384;
+    font-size: 65px;
+    border-radius: 10px;
+    Font-family: Consolas, monaco, monospace;
+}
+
+main{
+    background-color: #AA1945;
+}
+
+footer{
+    background-color: #CB857C;
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+.imgPokebola{
+    width: 65px;
+    margin-bottom: -10px;
+    margin-left: 15px;
+}
+
+.pokemon{
+    display: flex;
+    background-color: #AA1945;
+}
+
+.imgPokemon, .atributosPokemon{
+    max-width: 50%;
+    border-radius: 30px;
+}
+
+.imgPokemon{
+    background-color: #EFE7BC;
+}
+
+.atributosPokemon{
+    background-color:#FFA384;
+    text-align: center;
+    font-size: 50px;
+    max-width: 50%;
+    Font-family: Consolas, monaco, monospace;
+    margin: 75px;
+    margin-left: 150px;
+}
+
+.tituloPokemon{
+    width: 50%;
+    background-color:#FFA384;
+    margin-left: 5cm;
+    margin-right: 40.8cm;
+    font-size: 50px;
+    border-radius: 35px;
+    display: flex;
+    Font-family: Consolas, monaco, monospace;
+}
+
+.imgHada{
+    width: 13%;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.jiggle{
+    width: 50%;
+    margin-left: 185px;
+    background-color: #FFA384;
+    border-radius: 20px;
+}
+
+.espacio-footer{
+    max-width: 100%;
+    display: flex;
+}
+
+.seccion-otros{
+    font-size: 125px;
+    Font-family: Consolas, monaco, monospace;
+    margin-right: 175px;
+    margin-left: 135px;
+    margin-top: 110px;
+    margin-bottom: 150px;
+    padding-right: 80px;
+    padding-left: 30px;
+    text-align: center;
+    border-radius: 75px;
+    background-color: #AA1945;
+    display: flex; 
+    max-width: 17%;
+}
+
+.seccion-otros:hover{
+    transform: scale(1.2);
+}
+
+.seccion-pokemones{
+    background-color: #AA1945;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bellsprout{
+    width: 12%;
+    background-color: #FFA384;
+    border-radius: 15px;
+    margin-right: 25px;
+    margin-left: 30px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding-top: 5px;
+}
+
+.bellsprout:hover{
+    transform: scale(1.2);
+    background-color: #E9DDD4;
+}
+
+.farfetchd{
+    width: 13%;
+    background-color: #FFA384;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.farfetchd:hover{
+    transform: scale(1.2);
+    background-color: #E9DDD4;
+}
+
+.raichu{
+    width: 13%;
+    background-color: #FFA384;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.raichu:hover{
+    transform: scale(1.2);
+    background-color: #E9DDD4;
+}
+
+.rattata{
+    width: 10.5%;
+    background-color: #FFA384;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.rattata:hover{
+    transform: scale(1.2);
+    background-color: #E9DDD4;
+}
+
+.sandslash{
+    width: 15%;
+    background-color: #FFA384;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.sandslash:hover{
+    transform: scale(1.2);
+    background-color: #E9DDD4;
+}
+
+
+
+
+
+
+
